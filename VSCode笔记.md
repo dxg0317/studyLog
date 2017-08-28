@@ -19,6 +19,9 @@
 1. vscode-styled-jsx
 1. npm (2个)
 1. npm intellisense
+1. CSSLint
+1. HTMLHint
+1. open-in-browser
 
 ## 配置
 
